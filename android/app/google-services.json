@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852693370867",
+    "project_id": "dexcliapp",
+    "storage_bucket": "dexcliapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852693370867:android:cb58e9d0d5e8fac9027486",
+        "android_client_info": {
+          "package_name": "com.mikeappdex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvFvjrRx_1-hdzKVA-tVGo-FtjKi-0ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
